@@ -1,9 +1,6 @@
 //
 //  UIViewController+Helpers.swift
-//  ilostest
-//
 //  Created by Modo Ltunzher on 14.04.16.
-//  Copyright © 2016 Ltunzher. All rights reserved.
 //
 
 // TODO: code id "translated" from obj-c, fix
